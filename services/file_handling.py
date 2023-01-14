@@ -1,5 +1,5 @@
 BOOK_PATH = 'book/book.txt'
-PAGE_SIZE = 1050
+PAGE_SIZE = 950
 
 book: dict[int, str] = {}
 
